@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Sindhura Bhavya Mullpuri]
+description: [A personal portfolio showcasing my skills and projects as a Data Engineer and Generative AI enthusiast. Built to highlight expertise in cloud data pipelines, machine learning, and AI-driven applications using modern tools like GCP, BigQuery, Airflow, LangChain, and more]
