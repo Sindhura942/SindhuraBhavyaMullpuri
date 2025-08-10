@@ -70,7 +70,7 @@ Currently, I am actively upskilling in **Generative AI**, including **LangChain*
 Real Estate Research Assistant | Python, LangChain, ChromaDB, Streamlit, Hugging Face
 Built an AI-powered real estate data assistant using RAG architecture with ChromaDB as a vector store and LangChain for retrieval-based Q&A.
 Integrated Hugging Face embeddings for semantic search and natural language queries on property listings.
-GitHub: 
+GitHub: https://github.com/Sindhura942/Real_estate_Assistant_chatbot.git
 - Purpose: Build a semantic document search interface using ChromaDB and Streamlit
 - Tech: LangChain, ChromaDB, OpenAI Embeddings, Streamlit
 - Status: In Progress
