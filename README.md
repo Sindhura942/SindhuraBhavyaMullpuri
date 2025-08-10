@@ -94,15 +94,6 @@ GitHub: https://github.com/Sindhura942/Real_estate_Assistant_chatbot.git
 - Build end-to-end AI applications with Streamlit, FastAPI, or Flask
 - Implement responsible AI principles in all future solutions
 
----
-
-## 📬 Contact
-
-- 📧 Email: [Mulpurisindhura942@gmail.com](mailto:Mulpurisindhura942@gmail.com)  
-- 📞 Phone: (737)-231-3727  
-- 💼 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)  
-- 💻 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-- 📄 [Download My Resume (PDF)](Sindhura_Resume.pdf)
 
 ---
 
