@@ -66,16 +66,19 @@ Currently, I am actively upskilling in **Generative AI**, including **LangChain*
 
 ## 🔮 Upcoming Generative AI Projects
 
-### 1️⃣ **ChromaDB Vector Search App**
+### 1️⃣ **real_estate Search App**
 Real Estate Research Assistant | Python, LangChain, ChromaDB, Streamlit, Hugging Face
 Built an AI-powered real estate data assistant using RAG architecture with ChromaDB as a vector store and LangChain for retrieval-based Q&A.
 Integrated Hugging Face embeddings for semantic search and natural language queries on property listings.
 GitHub: https://github.com/Sindhura942/Real_estate_Assistant_chatbot.git
 - Purpose: Build a semantic document search interface using ChromaDB and Streamlit
 - Tech: LangChain, ChromaDB, OpenAI Embeddings, Streamlit
-- Status: In Progress
+- Status: Complete
 
 ### 2️⃣ **eCommerce Chatbot**
+E-Commerce Chatbot Developer | Python, LLaMA 3.3, ChromaDB, Streamlit, SQLite
+Developed an AI-powered eCommerce chatbot for Flipkart using RAG architecture with ChromaDB for FAQ retrieval and SQLite for product data storage.
+Built with Streamlit for a user-friendly interface and integrated semantic routing for accurate product and pricing inquiries
 - Purpose: AI chatbot for shopping assistance using LangChain and RAG
 - Features: Context retention, LLM responses, product recommendations
 - Status: In Progress
