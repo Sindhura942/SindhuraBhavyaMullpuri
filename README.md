@@ -29,7 +29,7 @@ Currently, I am actively upskilling in **Generative AI**, including **LangChain*
 
 ## 🛠️ Work Experience
 
-### 🔹 Data Engineer | BNS Inc (Client: HCA)  
+### 🔹 Data Engineer | BNS Inc  
 📍 Austin, TX | 📅 Jan 2023 – Present
 
 - Built scalable pipelines using Apache Airflow, PySpark (Dataproc), and Apache Beam (Dataflow)
@@ -43,7 +43,7 @@ Currently, I am actively upskilling in **Generative AI**, including **LangChain*
 
 ---
 
-### 🔹 Jr Data Engineer | Eclerx (Client: Meesho)  
+### 🔹 Jr Data Engineer | Eclerx  
 📍 Hyderabad, India | 📅 Jan 2018 – Oct 2021
 
 - Built GCP data pipelines for real-time processing using Dataflow, Pub/Sub, and BigQuery
