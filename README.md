@@ -1,4 +1,4 @@
-# Sindhura Bhavya Mulpuri – Data Engineer & Generative AI Learner
+# Sindhura Bhavya Mullpuri – Data Engineer & Generative AI Learner
 
 ---
 
