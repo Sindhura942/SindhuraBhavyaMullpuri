@@ -79,9 +79,10 @@ GitHub: https://github.com/Sindhura942/Real_estate_Assistant_chatbot.git
 E-Commerce Chatbot Developer | Python, LLaMA 3.3, ChromaDB, Streamlit, SQLite
 Developed an AI-powered eCommerce chatbot for Flipkart using RAG architecture with ChromaDB for FAQ retrieval and SQLite for product data storage.
 Built with Streamlit for a user-friendly interface and integrated semantic routing for accurate product and pricing inquiries
+GitHub:https://github.com/Sindhura942/E_commerce_Chatbot.git
 - Purpose: AI chatbot for shopping assistance using LangChain and RAG
 - Features: Context retention, LLM responses, product recommendations
-- Status: In Progress
+- Status: complete 
 
 ### 3️⃣ **AI-powered HRMS System**
 - Purpose: Multi-agent HR system for onboarding, leave tracking, and performance review
