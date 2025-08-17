@@ -45,7 +45,7 @@ Designed relational database schemas for products, customers, and orders
 Developed SQL queries, Java backend logic, and HTML/CSS frontend
 Integrated end-to-end platform with real-time updates and responsive UI
 
-🤖 Recent Deep Learning Projects
+🤖 Deep Learning Projects
 1️⃣ Telco Customer Churn Prediction
 Customer churn prediction using deep neural networks | Python, TensorFlow, Keras, Scikit-Learn, Pandas
 Developed a neural network to predict customer churn for a telecom dataset
@@ -82,7 +82,7 @@ Tech: Hugging Face, LangChain, Streamlit
 Status: Planning
 GitHub: To be added
 
-🔮 Upcoming Generative AI Projects
+🔮 Generative AI Projects
 1️⃣ Real Estate Search App
 Real Estate Research Assistant | Python, LangChain, ChromaDB, Streamlit, Hugging Face
 Built an AI-powered real estate data assistant using RAG architecture with ChromaDB as a vector store and LangChain for retrieval-based Q&A
