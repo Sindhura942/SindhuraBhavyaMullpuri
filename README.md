@@ -3,8 +3,7 @@
 ---
 
 ## About Me
-Passionate **Data Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, and Dataflow**.  
-
+Passionate **Data Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, Cloud Storage, and Dataflow**.  
 Currently expanding expertise in **Generative AI**, focusing on **LLM-based applications** using **LangChain** and **LangGraph**. Knowledgeable in AI agents, agentic AI systems, Retrieval-Augmented Generation (RAG), tool use, memory/state handling, and multi-agent orchestration. Actively working on real-world GenAI projects hosted on GCP, combining data engineering and AI capabilities to deliver scalable and intelligent solutions.  
 
 ---
@@ -43,7 +42,7 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 
 ### Data Engineer | Deep Learning Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
 - Designed and implemented scalable ETL pipelines using **Airflow, BigQuery, and Cloud Functions** for healthcare data.
-- Developed **deep learning models** (TensorFlow & Keras) to predict patient readmission risks and automate clinical classification tasks.
+- Developed **deep learning models** in TensorFlow & Keras to predict patient readmission risks and automate clinical classification tasks.
 - Built **real-time data pipelines** using PySpark on Dataproc and Apache Beam on Dataflow.
 - Implemented **Medallion architecture**, SCD Type 2, and HIPAA-compliant data processing pipelines.
 - Automated CI/CD with **GitHub Actions** and **Cloud Build**, reducing deployment time by 40%.
