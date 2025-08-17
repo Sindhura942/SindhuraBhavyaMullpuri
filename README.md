@@ -1,131 +1,127 @@
-Sindhura Bhavya Mullpuri – Data Engineer & Generative AI Learner
+# Sindhura Bhavya Mullpuri – Data Engineer & Generative AI Learner 👩‍💻
 
-👩‍💻 About Me
+---
 
-I hold a Master of Science in Computer Science from Southern Arkansas University and have over 5 years of experience in data engineering, cloud computing, machine learning, and deep learning. I am passionate about building intelligent, scalable systems that solve complex data problems and enable data-driven decision-making.
+## About Me
+Passionate **Data Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, and Dataflow**.  
 
-Currently, I am actively upskilling in Generative AI, including LangChain, LLMs, RAG, multi-agent architectures, and ChromaDB.
+Currently expanding expertise in **Generative AI**, focusing on **LLM-based applications** using **LangChain** and **LangGraph**. Knowledgeable in AI agents, agentic AI systems, Retrieval-Augmented Generation (RAG), tool use, memory/state handling, and multi-agent orchestration. Actively working on real-world GenAI projects hosted on GCP, combining data engineering and AI capabilities to deliver scalable and intelligent solutions.  
 
-🧠 Technical Skills
+---
 
-Languages: Python, SQL, Java, PySparkCloud & Tools: GCP (BigQuery, Dataflow, Pub/Sub, Cloud Functions, Cloud Storage, Cloud SQL, IAM, VPC), TerraformData Orchestration: Apache Airflow, Cloud ComposerVisualization: Tableau, Looker, Looker StudioDevOps & CI/CD: Docker, GitHub Actions, Cloud BuildMonitoring & Logging: GCP Monitoring, SplunkOS & Scripting: Linux, BashAI/ML: TensorFlow, Keras, BigQuery ML, LangChain, NLPCompliance: HIPAA, Data MaskingCertifications: 🟢 GCP Associate Cloud Engineer — Issued Oct 2024 Credly Link
+## Skills & Abilities
 
-🛠️ Work Experience
+- **Programming & Data Engineering**: Python, SQL, PySpark, Apache Beam, BigQuery, Dataflow  
+- **Generative AI & NLP**: LangChain, LangGraph, RAG, Hugging Face embeddings, LLaMA 3.3, AI agents, multi-agent orchestration  
+- **Data Orchestration**: Apache Airflow, Cloud Composer  
+- **Cloud & Tools**: GCP (BigQuery, Cloud Storage, Cloud Functions, Pub/Sub, Cloud SQL, IAM, VPC), Terraform  
+- **Visualization & BI**: Tableau, Looker, Looker Studio  
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite  
+- **Containerization & CI/CD**: Docker, GitHub, Cloud Build  
+- **Monitoring & Logging**: Splunk, GCP Logging/Monitoring  
+- **Other**: Linux, Bash, HIPAA Compliance, Data Masking, BigQuery ML  
 
-🔹 Data Engineer | BNS Inc
+---
 
-📍 Austin, TX | 📅 Jan 2023 – Present
+## Certifications
 
-Built scalable pipelines using Apache Airflow, PySpark (Dataproc), and Apache Beam (Dataflow)
+**GCP Certified Associate**  
+- Issued: Oct 2024  
+- Certification ID: 7c694e780c8648c28dddd42c7cd5894a  
+- [Credly Badge](https://www.credly.com/badges/c2575d6f-d397-4e5d-bc3c-bddbb98a8af1)  
 
-Developed deep learning models using TensorFlow & Keras for clinical prediction and classification
+---
 
-Implemented neural network architectures with ReLU, Sigmoid, Softmax, dropout, L2 regularization
+## Education
 
-Maintained HIPAA compliance through data masking, IAM policies, and audit logging
+**Master of Science (M.S.) in Computer Science** – Southern Arkansas University, USA (2023)  
+**Bachelor of Technology (B.Tech) in Electronics & Communication Engineering** – JNTU Hyderabad, India (2015)  
 
-Migrated datasets to BigQuery and Cloud SQL using Google DMS
+---
 
-Created dashboards in Looker for clinical KPIs and financial insights
+## Professional Experience
 
-Automated CI/CD with GitHub Actions and Cloud BuildTechnologies: BigQuery, Airflow, Cloud Functions, Pub/Sub, Looker, GCP Monitoring, Splunk
+### Data Engineer | Deep Learning Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
+- Designed and implemented scalable ETL pipelines using **Airflow, BigQuery, and Cloud Functions** for healthcare data.
+- Developed **deep learning models** (TensorFlow & Keras) to predict patient readmission risks and automate clinical classification tasks.
+- Built **real-time data pipelines** using PySpark on Dataproc and Apache Beam on Dataflow.
+- Implemented **Medallion architecture**, SCD Type 2, and HIPAA-compliant data processing pipelines.
+- Automated CI/CD with **GitHub Actions** and **Cloud Build**, reducing deployment time by 40%.
+- Developed dashboards in **Looker** and maintained observability with **GCP Monitoring** and **Splunk**.
 
-🔹 Jr Data Engineer | Eclerx
+**Key Tools**: BigQuery, Airflow, Dataproc, Cloud Functions, Pub/Sub, Cloud SQL, GitHub, Cloud Build, Looker  
 
-📍 Hyderabad, India | 📅 Jan 2018 – Oct 2021
+---
 
-Built GCP data pipelines for real-time processing using Dataflow, Pub/Sub, and BigQuery
+### Jr. Data Engineer – Eclerx, Hyderabad, India (Jan 2018 – Oct 2021)
+- Built **real-time retail ETL pipelines** using **Dataflow, Pub/Sub, and BigQuery**.
+- Orchestrated workflows using **Cloud Composer** and optimized BigQuery schemas with partitioning and materialized views.
+- Developed dashboards in **Tableau** and **Looker Studio** for business metrics and KPI visualization.
+- Implemented **event-driven architectures** using Pub/Sub and Cloud Functions.  
 
-Orchestrated ETL workflows using Cloud Composer
+**Key Tools**: BigQuery, Dataflow, Cloud Composer, Pub/Sub, Looker Studio, Cloud DLP  
 
-Designed partitioned BigQuery schemas and materialized views
+---
 
-Created dashboards using Tableau, Looker Studio for product and sales analytics
+## University Projects
 
-Reduced GCP costs through BigQuery usage optimization and billing insightsTechnologies: Dataflow, BigQuery, Cloud Composer, Looker Studio, Tableau
+**E-commerce Platform – Magnolia, AR (Mar 2022 – May 2022)**  
+- Designed SQL database schemas for products, orders, and customers.  
+- Developed backend logic using **Java** and frontend using **HTML/CSS**.  
+- Optimized SQL queries for performance and seamless user experience.  
 
-🎓 University Project
+---
 
-E-Commerce Platform | 📍 Magnolia, AR | 📅 Mar 2022 – May 2022
+## Deep Learning Projects
 
-Designed relational database schemas for products, customers, and orders
+1️⃣ **Telco Customer Churn Prediction** – Python, TensorFlow, Keras  
+- Predict customer churn using DNN  
+- Achieved RMSE: 0.748, MAE: 0.604, R²: 0.999
+  
+2️⃣ **Housing Price Prediction** – Python, TensorFlow, Keras  
+- Regression model for real estate prices  
+- Implemented feature scaling, train/test split, and MSE/MAE evaluation  
 
-Developed SQL queries, Java backend logic, and HTML/CSS frontend
+3️⃣ **Employee Salary Prediction** – Python, TensorFlow, Keras  
+- Neural network regression model to forecast salaries based on features
 
-Integrated end-to-end platform with real-time updates and responsive UI
+ *** Github Link For the Above Three Projects **
+ Link: https://github.com/Sindhura942/DeepLearning.git
 
-🤖 Deep Learning Projects
+---
 
-1️⃣ Telco Customer Churn Prediction
+## AI & NLP Projects (Coming Soon)
 
-Purpose: Customer churn prediction using deep neural networksTech: Python, TensorFlow, Keras, Scikit-Learn, Pandas
+1️⃣ **Transformers Fine-Tuning for Domain-Specific Tasks** – Python, Hugging Face, PyTorch, TensorFlow  
+2️⃣ **NLP Pipeline for Text Summarization** – Hugging Face, LangChain, Streamlit  
 
-Developed a neural network to predict customer churn for a telecom dataset
+---
 
-Achieved high accuracy: RMSE: 0.748, MAE: 0.604, R²: 0.999
+## Generative AI Projects
 
-Techniques: ReLU, Sigmoid, dropout, L2 weight decay, early stopping, learning rate schedulingStatus: CompleteGitHub
+1️⃣ **Real Estate Research Assistant** – Python, LangChain, ChromaDB, Streamlit  
+- Built an AI-powered assistant with **RAG architecture**  
+- Integrated Hugging Face embeddings for semantic search
+- githublink:https://github.com/Sindhura942/Real_estate_Assistant_chatbot.git
 
-2️⃣ Housing Price Prediction
+2️⃣ **eCommerce Chatbot** – Python, LLaMA 3.3, ChromaDB, Streamlit, SQLite  
+- Developed an AI chatbot with RAG for FAQ retrieval and product queries  
+- Streamlit interface for seamless user interaction
+- githublink:https://github.com/Sindhura942/E_commerce_Chatbot.git
 
-Purpose: Regression model for predicting housing pricesTech: Python, TensorFlow, Keras, Pandas, Matplotlib
+3️⃣ **AI-powered HRMS System** – LangChain, Agentic AI  
+- Multi-agent system for onboarding, leave tracking, and performance review  
+githublink: planning stage 
+---
 
-Built a fully connected neural network to forecast real estate prices
+## Goals
+- Master advanced concepts of **LLMs, agent orchestration, and RAG pipelines**  
+- Apply **LLM fine-tuning** for domain-specific NLP tasks  
+- Build **end-to-end AI applications** with Streamlit, FastAPI, or Flask  
+- Implement **responsible AI principles** in all future solutions  
 
-Implemented feature scaling, train/test split, and MSE/MAE evaluation
+---
 
-Tuned hidden layers and neurons to optimize prediction accuracyStatus: CompleteGitHub
 
-3️⃣ Employee Salary Prediction
-
-Purpose: Predicting employee salaries using deep neural networksTech: Python, TensorFlow, Keras, Pandas, Scikit-Learn
-
-Built a neural network regression model to forecast employee salaries based on features like experience, role, and department
-
-Applied feature scaling, train/test split, and evaluation metrics including MSE, MAE, RMSE, and R²
-
-Techniques: Fully connected layers, ReLU activation, dropout, L2 regularization, early stoppingStatus: CompleteGitHub
-
-🧠 AI & NLP Projects (Coming Soon)
-
-1️⃣ Transformers Fine-Tuning for Domain-Specific Tasks
-
-Purpose: Fine-tune transformer models like BERT, LLaMA, or GPT for NLP tasks such as text classification, sentiment analysis, or question answeringTech: Python, Hugging Face Transformers, PyTorch, TensorFlowStatus: PlanningGitHub: To be added
-
-2️⃣ NLP Pipeline for Text Summarization
-
-Purpose: Build end-to-end NLP pipelines for summarizing documents or articles using sequence-to-sequence modelsTech: Hugging Face, LangChain, StreamlitStatus: PlanningGitHub: To be added
-
-🔮 Generative AI Projects
-
-1️⃣ Real Estate Search App
-
-Purpose: Real Estate Research AssistantTech: Python, LangChain, ChromaDB, Streamlit, Hugging Face
-
-Built an AI-powered real estate data assistant using RAG architecture with ChromaDB as a vector store and LangChain for retrieval-based Q&A
-
-Integrated Hugging Face embeddings for semantic search and natural language queries on property listingsStatus: CompleteGitHub
-
-2️⃣ eCommerce Chatbot
-
-Purpose: E-Commerce Chatbot Developer Tech: Python, LLaMA 3.3, ChromaDB, Streamlit, SQLite
-
-Developed an AI-powered eCommerce chatbot for Flipkart using RAG architecture with ChromaDB for FAQ retrieval and SQLite for product data storage
-
-Built with Streamlit for a user-friendly interface and integrated semantic routing for accurate product and pricing inquiriesStatus: CompleteGitHub
-
-3️⃣ AI-powered HRMS Systems
-
-Purpose: Multi-agent HR system for onboarding, leave tracking, and performance reviewArchitecture: Agentic AI design using LangChainStatus: Planning
-
-📈 Goals
-
-Master advanced concepts of LLMs, agent orchestration, and RAG-based pipelines
-
-Apply LLM fine-tuning for domain-specific tasks
-
-Build end-to-end AI applications with Streamlit, FastAPI, or Flask
-
-Implement responsible AI principles in all future solutions
 
 
