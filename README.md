@@ -46,7 +46,7 @@ Developed SQL queries, Java backend logic, and HTML/CSS frontend
 Integrated end-to-end platform with real-time updates and responsive UI
 
 🤖 Deep Learning Projects
-1️⃣ Telco Customer Churn Prediction
+1️⃣Telco Customer Churn Prediction
 Customer churn prediction using deep neural networks | Python, TensorFlow, Keras, Scikit-Learn, Pandas
 Developed a neural network to predict customer churn for a telecom dataset
 Achieved high accuracy: RMSE: 0.748, MAE: 0.604, R²: 0.999
