@@ -1,16 +1,16 @@
-# Sindhura Bhavya Mullpuri – Data Engineer & Generative AI Engineer 👩‍💻
+# Sindhura Bhavya Mullpuri – Generative AI Engineer 👩‍💻
 
 ---
 
 ## About Me
-Passionate **Data Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, Cloud Storage, and Dataflow**.  
+Passionate **Generative AI Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, Cloud Storage, and Dataflow**.  
 Currently expanding expertise in **Generative AI**, focusing on **LLM-based applications** using **LangChain** and **LangGraph**. Knowledgeable in AI agents, agentic AI systems, Retrieval-Augmented Generation (RAG), tool use, memory/state handling, and multi-agent orchestration. Actively working on real-world GenAI projects hosted on GCP, combining data engineering and AI capabilities to deliver scalable and intelligent solutions.  
 
 ---
 
 ## Skills & Abilities
 
-- **Programming & Data Engineering**: Python, SQL, PySpark, Apache Beam, BigQuery, Dataflow  
+- **Programming**: Python, SQL, PySpark, Apache Beam, BigQuery, Dataflow  
 - **Generative AI & NLP**: LangChain, LangGraph, RAG, Hugging Face embeddings, LLaMA 3.3, AI agents, multi-agent orchestration  
 - **Data Orchestration**: Apache Airflow, Cloud Composer  
 - **Cloud & Tools**: GCP (BigQuery, Cloud Storage, Cloud Functions, Pub/Sub, Cloud SQL, IAM, VPC), Terraform  
@@ -44,7 +44,7 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 
 ## Professional Experience
 
-### Data Engineer | Deep Learning Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
+### Generative AI Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
 - Designed and implemented scalable ETL pipelines using **Airflow, BigQuery, and Cloud Functions** for healthcare data.
 - Developed **deep learning models** in TensorFlow & Keras to predict patient readmission risks and automate clinical classification tasks.
 - Built **real-time data pipelines** using PySpark on Dataproc and Apache Beam on Dataflow.
