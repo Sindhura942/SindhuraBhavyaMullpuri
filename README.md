@@ -25,9 +25,9 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 ## Certifications
 
 **OCI Certified GEN AI Professional**
--Issued: Sep 2025
--Certification ID: 6688273CC950F7E0C73EE68853DE50AABCDE4C8C6D35C50AF5EF0223960773C6
--Link: https://catalog-education.oracle.com/ords/certview/sharebadge?id=6688273CC950F7E0C73EE68853DE50AABCDE4C8C6D35C50AF5EF0223960773C6 
+- Issued: Sep 2025
+- Certification ID: 6688273CC950F7E0C73EE68853DE50AABCDE4C8C6D35C50AF5EF0223960773C6
+- Link: https://catalog-education.oracle.com/ords/certview/sharebadge?id=6688273CC950F7E0C73EE68853DE50AABCDE4C8C6D35C50AF5EF0223960773C6 
 
 
 
