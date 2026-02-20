@@ -21,6 +21,9 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 - **Other**: Linux, Bash, HIPAA Compliance, Data Masking, BigQuery ML  
 
 ---
+## IBM Certifications
+IBM Professional Certificate – RAG & Agentic AI (Feb 2026).[h@ps://coursera.org/share/
+c83fc2319194aea1712126bbf9124ef9]
 
 ## Certifications
 **OCI Certified GEN AI Professional**  
@@ -53,16 +56,6 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 - Developed dashboards in **Looker** and maintained observability with **GCP Monitoring** and **Splunk**.
 
 **Key Tools**: BigQuery, Airflow, Dataproc, Cloud Functions, Pub/Sub, Cloud SQL, GitHub, Cloud Build, Looker  
-
----
-
-### Jr. Data Engineer – Eclerx, Hyderabad, India (Jan 2018 – Oct 2021)
-- Built **real-time retail ETL pipelines** using **Dataflow, Pub/Sub, and BigQuery**.
-- Orchestrated workflows using **Cloud Composer** and optimized BigQuery schemas with partitioning and materialized views.
-- Developed dashboards in **Tableau** and **Looker Studio** for business metrics and KPI visualization.
-- Implemented **event-driven architectures** using Pub/Sub and Cloud Functions.  
-
-**Key Tools**: BigQuery, Dataflow, Cloud Composer, Pub/Sub, Looker Studio, Cloud DLP  
 
 ---
 
