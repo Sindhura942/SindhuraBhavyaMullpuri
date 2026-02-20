@@ -22,7 +22,7 @@ Currently expanding expertise in **Generative AI**, focusing on **LLM-based appl
 
 ---
 ## IBM Certifications
-IBM Professional Certificate – RAG & Agentic AI (Feb 2026).[h@ps://coursera.org/share/
+IBM Professional Certificate – RAG & Agentic AI (Feb 2026).[https://coursera.org/share/
 c83fc2319194aea1712126bbf9124ef9]
 
 ## Certifications
