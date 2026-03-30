@@ -46,9 +46,7 @@ IBM Professional Certificate – RAG & Agentic AI (Feb 2026).[https://coursera.o
 ## Professional Experience
 
 ### Generative AI Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
-
-Generative AI Engineer                                                                                                                                  BNS INC – Austin, TX
-                                                                                                                                                            Jan 2023 – Present
+                                                                                                                                                        
 Designed agentic workflows using LangGraph for multi-step medical reasoning, including symptom analysis, differential diagnosis, and treatment suggestion
 Leveraged LangChain to orchestrate LLM interactions, tool usage, and prompt pipelines
 Integrated OpenAI LLMs to generate context-aware diagnostic insights from patient symptoms and medical history
@@ -69,8 +67,8 @@ Deployed live application to cloud hosting platform for public portfolio access.
 Key Tools & Technologies:
 BigQuery, Apache Airflow, Cloud Composer, Dataflow, PySpark, Cloud Functions, Pub/Sub, Cloud SQL, GitHub Actions, Cloud Build, TensorFlow, Keras, Scikit-learn, Looker, Splunk, GCP Monitoring, IAM ,LangCahin ,  LangGraph
 
-Jr. Data Engineer                                                                                                                                     Eclerx – Hyderabad, India
-                                                                                                                                                            Jan 2018 – Oct 2021
+### Jr. Data Engineer                                                                                                         Eclerx – Hyderabad, India   Jan 2018 – Oct 2021
+                                                                                                                                                            
 Designed and developed real-time data pipelines on Google Cloud Platform (GCP) using Dataflow, Pub/Sub, and BigQuery for processing retail and e-commerce data.
 Built and orchestrated ETL workflows using Cloud Composer, integrating data from POS systems, APIs, and e-
 commerce platforms.
