@@ -3,8 +3,7 @@
 ---
 
 ## About Me
-Passionate **Generative AI Engineer** with a Master’s degree and strong expertise in **Google Cloud Platform (GCP)**. Skilled in building and optimizing data pipelines using tools like **BigQuery, Cloud Composer, Cloud Storage, and Dataflow**.  
-Currently expanding expertise in **Generative AI**, focusing on **LLM-based applications** using **LangChain** and **LangGraph**. Knowledgeable in AI agents, agentic AI systems, Retrieval-Augmented Generation (RAG), tool use, memory/state handling, and multi-agent orchestration. Actively working on real-world GenAI projects hosted on GCP, combining data engineering and AI capabilities to deliver scalable and intelligent solutions.  
+Results-driven Generative AI and Data Engineer with 5+ years of experience designing scalable cloud data systems and intelligent AI applications. Expertise in building ETL/ELT pipelines, real-time data platforms, and production-ready AI agents using GCP, Python, SQL, and modern LLM frameworks (LangChain, LangGraph, OpenAI, and Claude).Proven ability to develop enterprise-grade AI solutions leveraging Retrieval-Augmented Generation (RAG), agentic workflows, and multimodal AI, with a strong focus on security, compliance, and performance optimization.Hands-on experience applying Claude for advanced coding, reasoning, and AI-assisted development workflows, enabling efficient problem-solving and high-quality solution delivery. Adept at translating complex business requirements into robust, scalable technical solutions. 
 
 ---
 
@@ -47,14 +46,43 @@ IBM Professional Certificate – RAG & Agentic AI (Feb 2026).[https://coursera.o
 ## Professional Experience
 
 ### Generative AI Engineer – BNS INC, Austin, TX (Jan 2023 – Present)
-- Designed and implemented scalable ETL pipelines using **Airflow, BigQuery, and Cloud Functions** for healthcare data.
-- Developed **deep learning models** in TensorFlow & Keras to predict patient readmission risks and automate clinical classification tasks.
-- Built **real-time data pipelines** using PySpark on Dataproc and Apache Beam on Dataflow.
-- Implemented **Medallion architecture**, SCD Type 2, and HIPAA-compliant data processing pipelines.
-- Automated CI/CD with **GitHub Actions** and **Cloud Build**, reducing deployment time by 40%.
-- Developed dashboards in **Looker** and maintained observability with **GCP Monitoring** and **Splunk**.
 
-**Key Tools**: BigQuery, Airflow, Dataproc, Cloud Functions, Pub/Sub, Cloud SQL, GitHub, Cloud Build, Looker  
+Generative AI Engineer                                                                                                                                  BNS INC – Austin, TX
+                                                                                                                                                            Jan 2023 – Present
+Designed agentic workflows using LangGraph for multi-step medical reasoning, including symptom analysis, differential diagnosis, and treatment suggestion
+Leveraged LangChain to orchestrate LLM interactions, tool usage, and prompt pipelines
+Integrated OpenAI LLMs to generate context-aware diagnostic insights from patient symptoms and medical history
+Implemented Retrieval-Augmented Generation (RAG) to fetch and ground responses in trusted medical literature (e.g., research papers, clinical guidelines)
+Built modular agents for tasks like research retrieval, summarization, and diagnosis generation
+Enabled explainable AI outputs by linking recommendations to supporting medical evidence
+Designed with privacy-first principles to handle sensitive healthcare data securely
+Ensured HIPAA compliance through data masking, IAM policy enforcement, and secure logging.
+Created automated CI/CD pipelines using GitHub Actions and Cloud Build, improving deployment efficiency by 40%.
+Established proactive monitoring and alerting using GCP Monitoring, Splunk, and custom logs for full pipeline visibility.
+Architected a modular agentic platform using LangGraph enabling stateful memory‑aware conversations.
+Built two integrated systems like conversational chatbot, tool‑augmented coding agent
+Enabled autonomous reasoning with external tool usage including dynamic Python code generation.
+Implemented modular architecture, virtual environments, and enterprise‑grade folder structure.
+Integrated high‑performance inference using Groq , OpenAI , Hugging Face with open‑source LLMs.
+Deployed live application to cloud hosting platform for public portfolio access.
+
+Key Tools & Technologies:
+BigQuery, Apache Airflow, Cloud Composer, Dataflow, PySpark, Cloud Functions, Pub/Sub, Cloud SQL, GitHub Actions, Cloud Build, TensorFlow, Keras, Scikit-learn, Looker, Splunk, GCP Monitoring, IAM ,LangCahin ,  LangGraph
+
+Jr. Data Engineer                                                                                                                                     Eclerx – Hyderabad, India
+                                                                                                                                                            Jan 2018 – Oct 2021
+Designed and developed real-time data pipelines on Google Cloud Platform (GCP) using Dataflow, Pub/Sub, and BigQuery for processing retail and e-commerce data.
+Built and orchestrated ETL workflows using Cloud Composer, integrating data from POS systems, APIs, and e-
+commerce platforms.
+Modeled and optimized BigQuery schemas with partitioning, clustering, and materialized views to improve query performance and reduce costs.
+Created interactive dashboards and reports using Tableau and Looker Studio to track key metrics like claim denial rates, cost analysis, and customer segmentation.
+Ensured data security and compliance through Cloud DLP, audit logging, and strict access control mechanisms.
+Reduced operational costs by monitoring BigQuery usage and applying optimization techniques with Cloud Billing exports.
+Built event-driven architectures for order fulfillment systems using Pub/Sub and Cloud Functions, enabling real-time responsiveness.
+
+Key Tools & Technologies:
+BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Functions, Looker Studio, Tableau, Cloud DLP
+
 
 ---
 
