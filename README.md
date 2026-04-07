@@ -143,7 +143,7 @@ githublink: planning stage
 
 ---
 **Contact Me**
-- Email: mulpurisindhura942@gmail.com
+- Email: sindhurabhavyamullpuri@gmail.com
 - Mobile Number: +1(737)-231-3727
 
 
