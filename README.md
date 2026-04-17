@@ -128,7 +128,7 @@ BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Functions, Looker Studio, Tab
 2️⃣ **eCommerce Chatbot** – Python, LLaMA 3.3, ChromaDB, Streamlit, SQLite  
 - Developed an AI chatbot with RAG for FAQ retrieval and product queries  
 - Streamlit interface for seamless user interaction
-- githublink:https://github.com/Sindhura942/E_commerce_Chatbot.git
+- githublink:https://github.com/Sindhura942/e-Commerce_Agentic_Bot.git
 
 3️⃣ **AI-powered HRMS System** – LangChain, Agentic AI  
 - Multi-agent system for onboarding, leave tracking, and performance review  
