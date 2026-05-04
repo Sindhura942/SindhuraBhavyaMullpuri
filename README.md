@@ -132,10 +132,10 @@ BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Functions, Looker Studio, Tab
 
 3️⃣ **AI-powered HRMS System** – LangChain, Agentic AI  
 - Multi-agent system for onboarding, leave tracking, and performance review  
-githublink: planning stage
+- githublink: https://github.com/Sindhura942/AutonomousHRAssistant.git
 
 4️⃣ **Agentic Financial Research Assistant** – Python, LangGraph, LangChain, OpenAI, Streamlit, Alpha Vantage, Tavily
-– Built an agentic AI chatbot integrating 4+ tools for financial insights with stateful conversations and real-time API data
+- Built an agentic AI chatbot integrating 4+ tools for financial insights with stateful conversations and real-time API data
 – Designed LangGraph workflow with conditional routing and deployed via Streamlit for interactive usage
 – githublink: https://github.com/Sindhura942/Financial_News_App.git
 
