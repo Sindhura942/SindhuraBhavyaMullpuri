@@ -10,13 +10,14 @@ Results-driven Generative AI and Data Engineer with 5+ years of experience desig
 ## Skills & Abilities
 
 - **Programming**: Python, SQL, PySpark, Apache Beam, BigQuery, Dataflow  
-- **Generative AI & NLP**: LangChain, LangGraph, RAG, Hugging Face embeddings, LLaMA 3.3, AI agents, multi-agent orchestration  
+- **Generative AI & NLP**: LangChain, LangGraph, CrewAI, RAG, Hugging Face embeddings, LLaMA 3.3, AI agents, multi-agent orchestration  
 - **Data Orchestration**: Apache Airflow, Cloud Composer  
-- **Cloud & Tools**: GCP (BigQuery, Cloud Storage, Cloud Functions, Pub/Sub, Cloud SQL, IAM, VPC), Terraform  
+- **Cloud & Tools**: GCP (BigQuery, Cloud Storage, Cloud Functions, Pub/Sub, Cloud SQL, IAM, VPC), Azure (PostgreSQL, Blob Storage), Terraform  
+- **Web Frameworks**: FastAPI, Streamlit, Flask  
 - **Visualization & BI**: Tableau, Looker, Looker Studio  
 - **Databases**: MySQL, PostgreSQL, MongoDB, SQLite  
 - **Containerization & CI/CD**: Docker, GitHub, Cloud Build  
-- **Monitoring & Logging**: Splunk, GCP Logging/Monitoring  
+- **Monitoring & Logging**: Splunk, GCP Logging/Monitoring, LangSmith  
 - **Other**: Linux, Bash, HIPAA Compliance, Data Masking, BigQuery ML  
 
 ---
@@ -139,10 +140,18 @@ BigQuery, Dataflow, Pub/Sub, Cloud Composer, Cloud Functions, Looker Studio, Tab
 - Designed LangGraph workflow with conditional routing and deployed via Streamlit for interactive usage
 - githublink: https://github.com/Sindhura942/Financial_News_App.git
 
-5️⃣ **Agentic AI News Explorer** –Python, LangGraph, LangChain, Groq, OpenAI, Streamlit, Tavily
+5️⃣ **Agentic AI News Explorer** – Python, LangGraph, LangChain, Groq, OpenAI, Streamlit, Tavily
 - Developed an agentic AI system to fetch and summarize 100+ news articles/week with real-time web search integration
 - Built a multi-node LangGraph workflow with multi-LLM support and deployed on Hugging Face Spaces
 - githublink: https://github.com/Sindhura942/AgenticAI_Chat_Bot.git
+
+6️⃣ **AI Multi-Agent Financial Analyst** – Python, CrewAI, FastAPI, Streamlit, Azure, OpenAI, yFinance, FRED API, Firecrawl, LangSmith, Docker
+- Built a 4-agent autonomous research pipeline modeled after a real Wall Street investment firm — Quant Analyst, Risk Analyst, Chief Strategist, and Report Publisher agents working sequentially
+- Generates professional BUY / SELL / HOLD investment reports in under 3 minutes covering fundamentals, technicals (RSI, MACD), DCF valuation, options sentiment, and macroeconomic signals
+- Supports both US stocks (TSLA, NVDA, AAPL) and Indian stocks (TCS.NS, RELIANCE.NS) with automatic S&P 500 / Nifty 50 benchmarking
+- Reports persisted to Azure PostgreSQL and Azure Blob Storage; full agent observability via LangSmith
+- githublink: https://github.com/Sindhura942/ai-investment-analyst.git
+- livelink: https://ai-investement-analyst.streamlit.app
 
 ---
 
